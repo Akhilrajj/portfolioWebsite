@@ -1,0 +1,18 @@
+/* *{
+    border: blue 1px solid;
+    overflow: hidden;
+} */
+.Main-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size: cover;
+    height: 90vh; 
+    width: 100vw;
+    
+}
+.Main-body img{
+    width: 20%;
+    border-radius: 50%;
+ }
